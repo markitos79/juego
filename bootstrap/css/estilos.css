@@ -1,0 +1,28 @@
+#metodo
+{
+	color: blue;
+	font-family:'Jim Nightshade', cursive ;
+	font-size: 2em;
+}
+#descripcion
+{
+	font-family:'Jim Nightshade', cursive ;
+	font-size: 2.2em;
+}
+h2
+{
+	text-align: center;
+}
+.img-responsive
+{
+	border-radius: 10px;
+}
+.carrousel
+{
+	font-family:'Jim Nightshade' ;
+	font-size: 1.2em;
+}
+body
+{
+	background-image:url("img/fondo.jpg");
+}
